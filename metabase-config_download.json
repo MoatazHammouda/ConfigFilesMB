@@ -1,0 +1,12 @@
+{
+    "command": "download",
+    "devices": [
+        {"mac":"F4:8C:4F:28:76:C2","name":"Right Leg"},
+	{"mac":"F5:8E:AF:08:07:EB","name":"Left Leg"}
+    ],
+    "sensors": {
+        "Accelerometer": {"odr":25.0,"range":2.0},
+        "Gyroscope": {"odr":25.0,"range":2000.0},
+	"Magnetometer":{"odr":25.0}
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "command": "stream",
+    "devices": [
+        {"mac":"F4:8C:4F:28:76:C2","name":"Right Leg"},
+	{"mac":"F5:8E:AF:08:07:EB","name":"Left Leg"}
+    ],
+    "sensors": {
+        "Quaternion": {"accRange":4.0,"gyroRange":250.0}
+    }
+}
