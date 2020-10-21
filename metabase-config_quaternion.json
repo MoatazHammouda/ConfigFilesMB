@@ -5,6 +5,6 @@
 	{"mac":"F5:8E:AF:08:07:EB","name":"Left Leg"}
     ],
     "sensors": {
-        "Quaternion": {"accRange":4.0,"gyroRange":250.0}
+        "Quaternion": {"accRange":16.0,"gyroRange":2000.0}
     }
 }
