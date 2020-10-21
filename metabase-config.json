@@ -5,7 +5,8 @@
 	{"mac":"F5:8E:AF:08:07:EB","name":"Left Leg"}
     ],
     "sensors": {
-        "Accelerometer": {"odr":25,"range":4.0},
-        "Gyroscope": {"odr":25,"range":250.0}
+        "Accelerometer": {"odr":25.0,"range":16.0},
+        "Gyroscope": {"odr":25.0,"range":2000.0},
+	"Magnetometer":{"odr":25.0}
     }
 }
