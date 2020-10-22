@@ -6,7 +6,7 @@
     ],
     "sensors": {
         "Accelerometer": {"odr":25.0,"range":4.0},
-        "Gyroscope": {"odr":25.0,"range":200.0},
+        "Gyroscope": {"odr":25.0,"range":250.0},
 	"Magnetometer":{"odr":25.0}
     }
 }
