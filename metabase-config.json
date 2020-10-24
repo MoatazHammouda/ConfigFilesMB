@@ -1,8 +1,7 @@
 {
     "command": "stream",
     "devices": [
-        {"mac":"F4:8C:4F:28:76:C2","name":"Right Leg"},
-	{"mac":"F5:8E:AF:08:07:EB","name":"Left Leg"}
+        {"mac":"F4:8C:4F:28:76:C2","name":"Right Leg"}
     ],
     "sensors": {
         "Accelerometer": {"odr":25.0,"range":4.0},
